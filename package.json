@@ -1,0 +1,23 @@
+{
+  "name": "linkedlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannyCSStudent/LinkedList.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannyCSStudent/LinkedList/issues"
+  },
+  "homepage": "https://github.com/dannyCSStudent/LinkedList#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
